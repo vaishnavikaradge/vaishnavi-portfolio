@@ -25,10 +25,10 @@ const AboutContent = () => {
             <div className="img-container">
                 <div className="top">
                    
-                    <img src="https://www.bigscal.com/wp-content/uploads/2022/12/Top-5-React-Github-repositories-to-Become-a-Pro-React-js-Developer-1.png" className="img" alt="image" />
+                    <img src="https://www.bigscal.com/wp-content/uploads/2022/12/Top-5-React-Github-repositories-to-Become-a-Pro-React-js-Developer-1.png" className="img" alt="" />
                 </div>
                 <div className="bottom">
-                    <img src="https://ziontutorial.com/wp-content/uploads/2023/02/ziontutorial.com_.png" className="img" alt="image" />
+                    <img src="https://ziontutorial.com/wp-content/uploads/2023/02/ziontutorial.com_.png" className="img" alt="" />
                     
                 </div>    
 
